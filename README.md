@@ -8,7 +8,7 @@ Patiences and retrys (sometimes functions fail for no reason but works when call
 
 PREDICTS dataset (publically avaliable, not included here)
 
-~~ Miniconda and python, installing rgee on python ~~ (This is no longer necessary in recent rgee versions.
+~~Miniconda and python, installing GEE on python~~ (This is no longer necessary in recent rgee versions.
 
 
 
