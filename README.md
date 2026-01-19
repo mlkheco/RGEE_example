@@ -3,6 +3,8 @@ RGEE example material for Opportunist meeting 8/12/2025
 
 These functions are LandSat specific, but can easily be converted to other satelites or datasets, be aware of the scaling factors and calculations when converting the code.
 
+You can also look at the github page for the rgee package for more guidelines on installation and usage.
+
 #Prerequisites:
 
 Patiences and retrys (sometimes functions fail for no reason but works when called again)
